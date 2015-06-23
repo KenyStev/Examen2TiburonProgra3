@@ -1,5 +1,10 @@
 // queue::push/pop
 
+/*
+* @autor: KenyStev
+* @date: monday 22 - june - 2015 at 18:06
+*/
+
 #include <iostream>
 #include <list>
 #include <fstream>
